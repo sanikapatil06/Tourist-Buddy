@@ -1,1 +1,1 @@
-# Tourist-Buddy
+Introducing 'Tourist Buddy' a Tourist Guide Application for your devices – your virtual travel companion! Say goodbye to traditional guidebooks and welcome this convenient mobile app that offers a seamless tourism experience. Explore famous spots with ease as the app narrates the history of each place. With location-dependent systems and Google Maps integration, you can access detailed information, pictures, and calculate distances between attractions on the go. Embrace the future of travel with 'A Tourist Guide Application' on your smartphone or tablet.
